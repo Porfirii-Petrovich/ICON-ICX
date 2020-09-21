@@ -1,0 +1,27 @@
+USER'S GUIDE
+
+FILE NAME: ICON 2.0.indd
+
+FILE DATA: 21/9/20 15:32
+
+CONTACT:
+Twitter: @Porfirii4U
+Telegram: @Porfirii4u
+Bitcointalk: bitcointalk.org/index.php?action=profile;u=991374
+GitHub: github.com/Porfirii-Petrovich
+
+OTHERS:
+FONTS
+5 fonts used
+Fonts packaged
+- Name: Helvetica; Type: TrueType, Status: OK
+- Name: Helvetica-Bold; Type: TrueType, Status: OK
+- Name: Helvetica-BoldOblique; Type: TrueType, Status: OK
+- Name: Helvetica-Oblique; Type: TrueType, Status: OK
+- Name: MinionPro-Bold; Type: OpenType Type 1, Status: OK
+
+
+FILE PACKAGE LIST:
+1. ICON 2.0 Intro News (Spanish).indd; type: Adobe InDesign File; size: 1500K
+2. Helvetica.ttc; type: Fonts File; size: 2265K
+3. MinionPro-Bold.otf; type: Fonts File; size: 211K
