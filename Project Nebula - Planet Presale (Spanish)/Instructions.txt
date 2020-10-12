@@ -1,0 +1,85 @@
+INSTRUCCIONES DE IMPRESIÓN DE ADOBE INDESIGN PARA EL INFORME DEL PROVEEDOR DE SERVICIOS
+
+NOMBRE DEL DOCUMENTO: Project Nebula - Planet Presale (Spanish).indd
+
+FECHA DEL PAQUETE: 12/10/20 19:07
+Fecha de creación: 12/10/20
+Fecha de modificación: 12/10/20
+
+INFORMACIÓN DE CONTACTO
+
+Nombre de la empresa: 
+Contacto: Twitter: @Porfirii4U // Telegram: @Porfirii4u
+Dirección: 
+Bitcointalk: bitcointalk.org/index.php?action=profile;u=991374
+GitHub: github.com/Porfirii-Petrovich
+
+
+
+Teléfono: 
+Fax: 
+Correo electrónico: 
+
+INSTRUCCIONES ESPECIALES Y OTRAS NOTAS
+
+
+
+
+
+
+Plugins externos 0
+Objetos no opacos: Ninguno
+
+FUENTES
+5 fuente(s) utilizada(s); 0 No disponibles, 0 incrustada(s), 0 incompleta(s), 0 protegida(s)
+
+Fuentes empaquetadas
+- Nombre: Helvetica; Tipo: TrueType, Estado: OK
+- Nombre: Helvetica-Bold; Tipo: TrueType, Estado: OK
+- Nombre: Helvetica-Oblique; Tipo: TrueType, Estado: OK
+- Nombre: MinionPro-Bold; Tipo: OpenType Type 1, Estado: OK
+- Nombre: MinionPro-Regular; Tipo: OpenType Type 1, Estado: OK
+
+
+COLORES Y TINTAS
+1 tinta(s) de cuatricromía; 0 tinta(s) plana(s)
+
+- Nombre y tipo: Negro de cuatricromía; Ángulo: 45,000; Líneas/pulgada: 70,710
+
+
+VÍNCULOS E IMÁGENES
+(Sólo vínculos incrustados y que faltan)
+Vínculos e imágenes: 0 vínculo(s) encontrado(s); 0 modificado(s), 0 No disponibles 0 inaccesible(s)
+Imágenes: 0 incrustada(s), 0 con espacio de color RGB
+
+CONFIGURACIÓN DE IMPRESIÓN
+PPD: Adobe PDF 9.0, (Adobe PDF 9.0)
+Imprimir en: Impresora
+Número de copias: 1
+Páginas enfrentadas: No
+Páginas pares/impares: Ambas
+Páginas: Todas
+Prueba: No
+Mosaico: Ninguno
+Escala: 100%, 100%
+Posición de la página: Superior izquierda
+Imprimir capas: Capas visibles, imprimibles
+Marcas de impresión: Ninguna
+Sangrado: 0 mm, 0 mm, 0 mm, 0 mm
+Color: CMYK compuesto
+Modo de reventado: Ninguno
+Enviar datos de la imagen: Submuestreo optimizado
+Sustitución de imagen OPI/DCS: No
+Tamaño de página: A4
+Dimensiones del papel: 209,98 mm x 297,039 mm
+Orientación: Vertical
+Negativo: No
+Modo de volteo: Desactivado
+
+
+LISTA DEL PAQUETE DE ARCHIVOS
+
+1. Project Nebula - Planet Presale (Spanish).indd; tipo: Documento de Adobe InDesign; tamaño: 1384K
+2. Helvetica.ttc; tipo: Archivo de fuentes; tamaño: 2265K
+3. MinionPro-Bold.otf; tipo: Archivo de fuentes; tamaño: 211K
+4. MinionPro-Regular.otf; tipo: Archivo de fuentes; tamaño: 212K
